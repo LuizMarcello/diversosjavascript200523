@@ -1,0 +1,31 @@
+[
+  {
+    "nome": "Luiz",
+    "sobrenome": "Marcello",
+    "esta_trabalhando": true,
+    "detalhes_profissao": {
+      "profissao": "Programador",
+      "empresa": "Empresa X"
+    },
+    "hobbies": [
+      "Programar",
+      "Correr",
+      "Ler"
+    ]
+  },
+  {
+    "nome": "Carlos",
+    "sobrenome": "de Souza",
+    "esta_trabalhando": false,
+    "detalhes_profissao": {
+      "profissao": "Programador",
+      "empresa": "Empresa Y"
+    },
+    "hobbies": [
+      "Programar",
+      "Correr",
+      "Ler",
+      "Cinema"
+    ]
+  }
+]
